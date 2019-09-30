@@ -1,288 +1,50 @@
-
-{
-"id": 0,
-"folder": "Shared",
-"items": [
-{
-"id": 2,
-"name": "Annual_Report_2017.pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_2.pdf",
-"uploadedOn": "2018-10-17T16:51:32+00:00",
-"external": false
-},
-{
-"id": 42,
-"name": "PETRONAS Leaders & Contact Info (as at 16Nov2018).pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_42.pdf",
-"uploadedOn": "2019-03-21T04:38:31+00:00",
-"external": false
-},
-{
-"id": 82,
-"name": "PETRONAS Statement of Purpose FAQ.pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_82.pdf",
-"uploadedOn": "2019-05-13T08:58:53+00:00",
-"external": false
-},
-{
-"id": 44,
-"name": "PETRONAS Statement of Purpose.pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_44.pdf",
-"uploadedOn": "2019-03-26T01:25:11+00:00",
-"external": false
-},
-{
-"id": 5,
-"name": "PETRONAS TECHNOLOGY BROCHURE.pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_5.pdf",
-"uploadedOn": "2018-10-17T19:11:51+00:00",
-"external": false
-},
-{
-"id": 83,
-"name": "PMB 1 Head of GSC Message.pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_83.pdf",
-"uploadedOn": "2019-07-03T04:50:10+00:00",
-"external": false
-},
-{
-"id": 84,
-"name": "PMB Bumiputera Economic Transformation Roadmap 2.0 (BETR 2.0).pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_84.pdf",
-"uploadedOn": "2019-07-03T04:50:26+00:00",
-"external": false
-},
-{
-"id": 85,
-"name": "PMB Canada.pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_85.pdf",
-"uploadedOn": "2019-07-03T04:50:36+00:00",
-"external": false
-},
-{
-"id": 86,
-"name": "PMB Education.pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_86.pdf",
-"uploadedOn": "2019-07-03T04:50:49+00:00",
-"external": false
-},
-{
-"id": 87,
-"name": "PMB Gas Advocacy.pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_87.pdf",
-"uploadedOn": "2019-07-03T04:51:05+00:00",
-"external": false
-},
-{
-"id": 88,
-"name": "PMB Gas Price Review and Subsidy Rationalisation.pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_88.pdf",
-"uploadedOn": "2019-07-03T04:51:16+00:00",
-"external": false
-},
-{
-"id": 89,
-"name": "PMB HSSE.pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_89.pdf",
-"uploadedOn": "2019-07-03T04:51:53+00:00",
-"external": false
-},
-{
-"id": 90,
-"name": "PMB Human Resources.pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_90.pdf",
-"uploadedOn": "2019-07-03T04:52:05+00:00",
-"external": false
-},
-{
-"id": 91,
-"name": "PMB Human Rights.pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_91.pdf",
-"uploadedOn": "2019-07-03T04:52:18+00:00",
-"external": false
-},
-{
-"id": 92,
-"name": "PMB Implementation of ASEAN Economic Community (AEC).pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_92.pdf",
-"uploadedOn": "2019-07-03T04:52:28+00:00",
-"external": false
-},
-{
-"id": 93,
-"name": "PMB Land and Native Land.pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_93.pdf",
-"uploadedOn": "2019-07-03T04:53:04+00:00",
-"external": false
-},
-{
-"id": 94,
-"name": "PMB Local Content.pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_94.pdf",
-"uploadedOn": "2019-07-03T04:53:16+00:00",
-"external": false
-},
-{
-"id": 95,
-"name": "PMB New Energy.pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_95.pdf",
-"uploadedOn": "2019-07-03T04:53:26+00:00",
-"external": false
-},
-{
-"id": 96,
-"name": "PMB Oil Cash Payment.pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_96.pdf",
-"uploadedOn": "2019-07-03T04:53:37+00:00",
-"external": false
-},
-{
-"id": 97,
-"name": "PMB Pacific NorthWest LNG (PNWLNG).pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_97.pdf",
-"uploadedOn": "2019-07-03T04:53:48+00:00",
-"external": false
-},
-{
-"id": 98,
-"name": "PMB Pengerang Integrated Complex (PIC).pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_98.pdf",
-"uploadedOn": "2019-07-03T04:54:04+00:00",
-"external": false
-},
-{
-"id": 99,
-"name": "PMB PERWAJA's Proposed Revised Settlement Agreement.pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_99.pdf",
-"uploadedOn": "2019-07-03T04:54:19+00:00",
-"external": false
-},
-{
-"id": 100,
-"name": "PMB PETRONAS East Coast (PEC).pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_100.pdf",
-"uploadedOn": "2019-07-03T04:54:34+00:00",
-"external": false
-},
-{
-"id": 101,
-"name": "PMB PETRONAS Floating LNG Satu (PFLNG Satu).pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_101.pdf",
-"uploadedOn": "2019-07-03T04:54:50+00:00",
-"external": false
-},
-{
-"id": 102,
-"name": "PMB PETRONAS Motorsports.pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_102.pdf",
-"uploadedOn": "2019-07-03T04:55:05+00:00",
-"external": false
-},
-{
-"id": 103,
-"name": "PMB PETRONAS Participation in National Blue Ocean Strategy (NBOS) Initiatives.pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_103.pdf",
-"uploadedOn": "2019-07-03T04:55:38+00:00",
-"external": false
-},
-{
-"id": 104,
-"name": "PMB PETRONAS Sabah Ammonia and Urea (SAMUR).pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_104.pdf",
-"uploadedOn": "2019-07-03T04:56:04+00:00",
-"external": false
-},
-{
-"id": 105,
-"name": "PMB PETRONAS Sabah.pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_105.pdf",
-"uploadedOn": "2019-07-03T04:56:16+00:00",
-"external": false
-},
-{
-"id": 106,
-"name": "PMB PETRONAS Sarawak.pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_106.pdf",
-"uploadedOn": "2019-07-03T04:56:29+00:00",
-"external": false
-},
-{
-"id": 107,
-"name": "PMB PETRONAS Southern.pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_107.pdf",
-"uploadedOn": "2019-07-03T04:56:41+00:00",
-"external": false
-},
-{
-"id": 108,
-"name": "PMB Prolonged Period Of Low Oil Prices.pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_108.pdf",
-"uploadedOn": "2019-07-03T04:56:54+00:00",
-"external": false
-},
-{
-"id": 109,
-"name": "PMB Sabah Gas Supply to Bintulu.pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_109.pdf",
-"uploadedOn": "2019-07-03T04:57:07+00:00",
-"external": false
-},
-{
-"id": 110,
-"name": "PMB South Sudan.pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_110.pdf",
-"uploadedOn": "2019-07-03T04:57:18+00:00",
-"external": false
-},
-{
-"id": 111,
-"name": "PMB The PETRONAS Story.pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_111.pdf",
-"uploadedOn": "2019-07-03T04:57:30+00:00",
-"external": false
-},
-{
-"id": 112,
-"name": "PMB Third Party Access (TPA).pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_112.pdf",
-"uploadedOn": "2019-07-03T04:57:43+00:00",
-"external": false
-},
-{
-"id": 113,
-"name": "PMB Transparency.pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_113.pdf",
-"uploadedOn": "2019-07-03T04:57:53+00:00",
-"external": false
-},
-{
-"id": 114,
-"name": "PMB Yayasan PETRONAS.pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_114.pdf",
-"uploadedOn": "2019-07-03T04:58:05+00:00",
-"external": false
-},
-{
-"id": 115,
-"name": "PMB YTL Arbitration and Extension of Gas Supply Agreement.pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_115.pdf",
-"uploadedOn": "2019-07-03T04:58:27+00:00",
-"external": false
-},
-{
-"id": 4,
-"name": "Royalty Cash Payment Video",
-"fileUrl": "https://www.facebook.com/petronas/videos/519933888449479/",
-"uploadedOn": "2018-10-17T16:54:54+00:00",
-"external": true
-},
-{
-"id": 3,
-"name": "Sustainability_Report_2017.pdf",
-"fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_3.pdf",
-"uploadedOn": "2018-10-17T16:52:02+00:00",
-"external": false
-}
+[
+    {
+        "id": 0,
+        "folder": "Shared",
+        "items": [
+            {
+                "id": 2,
+                "name": "Annual_Report_2017.pdf",
+                "fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_2.pdf",
+                "uploadedOn": "2018-10-17T16:51:32+00:00",
+                "external": false
+            },
+            {
+                "id": 42,
+                "name": "PETRONAS Leaders & Contact Info (as at 16Nov2018).pdf",
+                "fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_42.pdf",
+                "uploadedOn": "2019-03-21T04:38:31+00:00",
+                "external": false
+            },
+            {
+                "id": 82,
+                "name": "PETRONAS Statement of Purpose FAQ.pdf",
+                "fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_82.pdf",
+                "uploadedOn": "2019-05-13T08:58:53+00:00",
+                "external": false
+            },
+            {
+                "id": 44,
+                "name": "PETRONAS Statement of Purpose.pdf",
+                "fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_44.pdf",
+                "uploadedOn": "2019-03-26T01:25:11+00:00",
+                "external": false
+            },
+            {
+                "id": 5,
+                "name": "PETRONAS TECHNOLOGY BROCHURE.pdf",
+                "fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_5.pdf",
+                "uploadedOn": "2018-10-17T19:11:51+00:00",
+                "external": false
+            },
+            {
+                "id": 83,
+                "name": "PMB 1 Head of GSC Message.pdf",
+                "fileUrl": "https://ptazsgprodinsync.blob.core.windows.net/toolbox/toolbox_83.pdf",
+                "uploadedOn": "2019-07-03T04:50:10+00:00",
+                "external": false
+            }
+        ]
+    }
 ]
-}
-
